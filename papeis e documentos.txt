@@ -1,0 +1,10 @@
+usecase = marlon, douglas e vinicius
+documento visão = vinicius e douglas
+testecase = marcos
+arquitetura = andré
+supporting requirements = marlon e douglas
+modelo de negócio = vinicius
+lista de riscos = marlon, douglas e vinicius
+plano de iteração = douglas
+work items list = marlon e douglas
+plano de projeto = douglas
