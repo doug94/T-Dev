@@ -1,4 +1,5 @@
 Pasta do arquiteto contém
+------------------------
 
 
 Arquitetura.asta - contém pastas
@@ -7,8 +8,20 @@ Arquitetura.asta - contém pastas
                                   03 - Diagrama de pacotes
                                   04 - Outros pacotes
                                   
-Imagens dos modelos (Conceitual, físico e lógicos) do banco
-Arquivos BRModelo
+obs: arquivo Arquitetura.asta é template fornecido pelo professor
+
+----------------------
+Gerados no BRModelo
+Imagens dos modelos (Conceitual.jpeg; físico.jpeg e lógicos.sql) do banco
+ConceitualBR.brM
+
+---------------------
+
+Arquivo de design de arquitetura gerano na ferramenta Draw.io
+DiagramaArq.xml
+
+
+
 
                 
                 
