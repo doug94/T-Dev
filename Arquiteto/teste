@@ -1,1 +1,14 @@
-Arquivos de arquitetura
+Pasta do arquiteto contém
+
+
+Arquitetura.asta - contém pastas
+                  Arquitetura ->  01 - Diagrama de classes
+                                  02 - Diagramas de sequência
+                                  03 - Diagrama de pacotes
+                                  04 - Outros pacotes
+                                  
+Imagens dos modelos (Conceitual, físico e lógicos) do banco
+Arquivos BRModelo
+
+                
+                
