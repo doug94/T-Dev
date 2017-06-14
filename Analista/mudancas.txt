@@ -1,0 +1,10 @@
+UC008:
+- alterar campos do cadastro para: codigo, nome, descricao
+
+UC009
+- fluxo básico é: clica em gerenciar cursos, clica no icone do relatorio, insere o texto e clica em salvar
+
+UC010
+- errata: 4. fluxo básico :2. O sistema exibe uma página com os veteranos e opções para adicionar, alterar ou remover VETERANO.
+- alterar campos para: CPF, matricula, nome
+- remover envio de senha por email
