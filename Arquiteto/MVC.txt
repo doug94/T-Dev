@@ -1,0 +1,5 @@
+MVC is a software architecture - the structure of the system - that separates domain/application/business (whatever you prefer) logic from the rest of the user interface. It does this by separating the application into three parts: the model, the view, and the controller.
+
+The model manages fundamental behaviors and data of the application.
+The view effectively provides the user interface element of the application.
+The controller receives user input and makes calls to model objects and the view to perform appropriate actions.
